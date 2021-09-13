@@ -41,8 +41,8 @@ http_port: "80"
 
 ### 1. Clone the repository
 ```sh
-$ git clone https://github.com/chizzymara/ansible-projects.git
-$ cd ansible_projects
+$ git clone https://github.com/chizzymara/ansible-wordpress.git
+$ cd ansible-wordpress
 ```
 
 Edit the hosts file **~/wordpress/hosts** and include the group(s) and address(es) of hosts on which wordpress is to be installed. It is important to ensure ansible is able to interact or  connect to the hosts.  
